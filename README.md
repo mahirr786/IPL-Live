@@ -16,7 +16,7 @@ This project uses the Cricbuzz Cricket API to access and display live IPL (India
 
 -> Welcome Screen: The first tab greets users with a visually engaging image and a button labeled "Dashboard." This button serves as the entry point to the main analytics section, guiding users seamlessly into the live data visuals.
 
-Snap of new calculated column ,
+
 
 ![Screenshot 2024-08-27 162301](https://github.com/user-attachments/assets/b71d3cbb-18fd-4d41-ae46-9a86f1587131)
 
@@ -37,7 +37,10 @@ In the sidebar- 'Home' and 'Points Table' will take you to the 1st and 3rd tab. 
 _ 
 
 ![Screenshot 2024-08-27 173101](https://github.com/user-attachments/assets/63432431-f48d-449a-9105-b842a18d34e1)
-There are 2 tooltips- 1st for batsmen and 2nd for bowlers connected to the both tables and Pie Charts.
+There are 2 tooltips- 1st for batsmen (displaying the batsman's contribution) and 2nd for bowlers (displaying the bowler's contribution) connected to the both tables and Pie Charts.
+
+![Screenshot 2024-08-27 185547](https://github.com/user-attachments/assets/a0f2f075-0f83-41ba-b8ae-402487a1031d)
+Tooltips feature allows users to see the bowler’s contribution by simply hovering over a row in Bowlers Table and same for Batmen Table and The Pie Charts below shown.
 
 _
 
