@@ -81,7 +81,7 @@ _
 _
 
 ![Screenshot 2024-08-27 182629](https://github.com/user-attachments/assets/e5c1fd2a-d36d-42bf-a016-39a846045dca)
-After selecting 8th match, we get can same dashboard for this match.
+After selecting 8th match, we can get same dashboard for this match.
 we can mannualy change the Match_Numbers.
 
 ## Conclusion
