@@ -40,7 +40,7 @@ _
 There are 2 tooltips- 1st for batsmen (displaying the batsman's contribution) and 2nd for bowlers (displaying the bowler's contribution) connected to the both tables and Pie Charts.
 
 ![Screenshot 2024-08-27 185547](https://github.com/user-attachments/assets/a0f2f075-0f83-41ba-b8ae-402487a1031d)
-Tooltips feature allows users to see the bowler’s contribution by simply hovering over a row in Bowlers Table and same for Batmen Table and The Pie Charts below shown.
+Tooltips feature allows users to see the bowler’s contribution by simply hovering over a row in Bowlers Table and same for Batsmen Table and The Pie Charts below shown.
 
 _
 
