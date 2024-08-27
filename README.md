@@ -78,5 +78,8 @@ _
 -> From here we can change match numbers, since The IPL is over so we can access the same dashboard I showed earlier for all the Matches.
 
 ![Screenshot 2024-08-27 182629](https://github.com/user-attachments/assets/e5c1fd2a-d36d-42bf-a016-39a846045dca)
-After selecting 8th match, we get same dashboard for this match.
+After selecting 8th match, we get can same dashboard for this match.
 we can mannualy change the Match_Numbers.
+
+## Conclusion
+This Power BI project effectively demonstrates the power of data visualization in sports analytics. By transforming and cleaning raw IPL data into an interactive and insightful dashboard, this project showcases advanced analytical skills, attention to detail, and a strong understanding of user-centric design.
